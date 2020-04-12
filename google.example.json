@@ -1,0 +1,5 @@
+{
+    "type": "service_account",
+    "project_id": "이것저것"
+    // 구글 서비스 json을 그대로 쓰자.
+}
